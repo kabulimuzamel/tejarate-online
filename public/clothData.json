@@ -1,0 +1,18 @@
+{
+    "T-shirt": {
+        "price": "20",
+        "instock": "10"
+    },
+    "Jean": {
+        "price": "12",
+        "instock": "4"
+    },
+    "Coat": {
+        "price": "43",
+        "instock": "7"
+    },
+    "Sneaker": {
+        "price": "21",
+        "instock": "2"
+    }
+}

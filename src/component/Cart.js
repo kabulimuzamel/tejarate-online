@@ -1,6 +1,5 @@
 
-function Cart() {
-
+export function Cart({ totalPrice, cartCounts }) {
     return (
         <div>
             <table>
@@ -11,16 +10,16 @@ function Cart() {
                     </tr>
                 </thead>
                 <tbody>
-                {
-                    Object.keys(cartNumber).map((clothData, index) => {
-                        return (
-                            <tr key={`table${index}`}>
-                                <td>{clothData}</td>
-                                <td>{cartNumber[clothData].count}</td>
-                            </tr>
-                        )
-                    })
-                }
+                    {
+                        cartCounts.map(item => {
+                            return (
+                                <tr key={item.name}>
+                                    <td>{item.name}</td>
+                                    <td>{item.count}</td>
+                                </tr>
+                            )
+                        })
+                    }
                 </tbody>
                 <tfoot>
                     <tr>

@@ -1,22 +1,112 @@
-[
+{
+  "spring": [
     {
-        "name": "T-shirt",
-        "price": "20",
-        "instock": "10"
+      "name": "Spring Floral Dress",
+      "price": "45",
+      "instock": "15"
     },
     {
-        "name": "Jean",
-        "price": "12",
-        "instock": "4"
+      "name": "Lightweight Jacket",
+      "price": "30",
+      "instock": "20"
     },
     {
-        "name": "Coat",
-        "price": "43",
-        "instock": "7"
+      "name": "Pastel Cardigan",
+      "price": "25",
+      "instock": "12"
     },
     {
-        "name": "Sneaker",
-        "price": "21",
-        "instock": "2"
+      "name": "Floral Skirt",
+      "price": "28",
+      "instock": "18"
+    },
+    {
+      "name": "Rain Boots",
+      "price": "35",
+      "instock": "10"
     }
-]
+  ],
+  "summer": [
+    {
+      "name": "Swim Shorts",
+      "price": "15",
+      "instock": "25"
+    },
+    {
+      "name": "Sundress",
+      "price": "35",
+      "instock": "30"
+    },
+    {
+      "name": "Straw Hat",
+      "price": "10",
+      "instock": "50"
+    },
+    {
+      "name": "Flip-flops",
+      "price": "12",
+      "instock": "40"
+    },
+    {
+      "name": "Beach Towel",
+      "price": "20",
+      "instock": "15"
+    }
+  ],
+  "fall": [
+    {
+      "name": "Fall Jacket",
+      "price": "50",
+      "instock": "15"
+    },
+    {
+      "name": "Sweater Dress",
+      "price": "40",
+      "instock": "20"
+    },
+    {
+      "name": "Plaid Scarf",
+      "price": "18",
+      "instock": "25"
+    },
+    {
+      "name": "Ankle Boots",
+      "price": "45",
+      "instock": "22"
+    },
+    {
+      "name": "Knit Gloves",
+      "price": "8",
+      "instock": "30"
+    }
+  ],
+  "winter": [
+    {
+      "name": "Winter Coat",
+      "price": "80",
+      "instock": "10"
+    },
+    {
+      "name": "Snow Boots",
+      "price": "60",
+      "instock": "12"
+    },
+    {
+      "name": "Thermal Leggings",
+      "price": "20",
+      "instock": "30"
+    },
+    {
+      "name": "Beanie Hat",
+      "price": "12",
+      "instock": "40"
+    },
+    {
+      "name": "Fleece Blanket",
+      "price": "30",
+      "instock": "20"
+    }
+  ]
+}
+  
+  
